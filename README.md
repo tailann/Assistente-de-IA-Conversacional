@@ -6,7 +6,7 @@
     </P>
   <h2> Funcionalidades agente de IA</h2> 
       <p>
-        foi rigorosamente programado para garantir a melhor experiência para o desenvolvedor:Soluções Completas em Python: Responde a qualquer pergunta sobre a linguagem, fornecendo código funcional e exemplos práticos.Formato de Resposta Estruturado: Toda resposta é dividida em Explicação, Código e Lógica, garantindo clareza.Fontes de Aprendizado: Inclui referências diretas à Documentação Oficial do Python ou de bibliotecas usadas.Interface Otimizada: Utiliza Streamlit para um design limpo, com elementos centralizados e uma sidebar para configuração segura da API.
+        foi rigorosamente programado para garantir a melhor experiência para o desenvolvedor; Soluções Completas em Python, Responde a qualquer pergunta sobre a linguagem, fornecendo código funcional e exemplos práticos. Formato de Resposta Estruturado, Toda resposta é dividida em Explicação, Código e Lógica, garantindo clareza, Fontes de Aprendizado, Inclui referências diretas à Documentação Oficial do Python ou de bibliotecas usadas, Interface Otimizada, Utiliza Streamlit para um design limpo, com elementos centralizados e uma sidebar para configuração segura da API.
       </p>  
   <h2>Tecnológia Utilizada</h2>
       <p>
