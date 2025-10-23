@@ -60,14 +60,13 @@ with st.sidebar:
     with col_central:
         st.link_button("🐙 GitHub", "https://github.com/tailann", use_container_width=True)
         st.link_button("🔗 LinkedIn", "https://www.linkedin.com/in/tailan-silva-2b2b79207/", use_container_width=True)
-# Título principal do app
+
 st.title("AGENTE.IA Coder")
 title_alignment = """
 <style>
-/* O seletor h1 atua em st.title() */
-h1 {
-    text-align: center;
-}
+    h1 {
+        text-align: center;
+    }
 </style>
 """
 st.markdown(title_alignment, unsafe_allow_html=True)
