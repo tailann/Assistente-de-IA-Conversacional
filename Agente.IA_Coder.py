@@ -1,16 +1,16 @@
 ############################################################################################################################
 ################  AGENTE.IA Coder - Desenvolvido durante o curso de Desenvolvimento de IA da DSA   #########################
 ############################################################################################################################
-# Importa módulo para interagir com o sistema operacional
+
 import os
 
-# Importa a biblioteca Streamlit para criar a interface web interativa
+
 import streamlit as st
 
-# Importa a classe Groq para se conectar à API da plataforma Groq e acessar o LLM
+
 from groq import Groq
 
-# Configura a página do Streamlit com título, ícone, layout e estado inicial da sidebar
+
 st.set_page_config(
     page_title="AGENTE.AI Coder",
     page_icon="🤖",
@@ -18,7 +18,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Define um prompt de sistema que descreve as regras e comportamento do assistente de IA
+
 CUSTOM_PROMPT = """
 Você é o "AGENTE.IA Coder", um assistente de IA especialista em programação, com foco principal em Python. Sua missão é ajudar desenvolvedores iniciantes com dúvidas de programação de forma clara, precisa e útil.
 
@@ -32,15 +32,15 @@ REGRAS DE OPERAÇÃO:
 3.  **Clareza e Precisão**: Use uma linguagem clara. Evite jargões desnecessários. Suas respostas devem ser tecnicamente precisas.
 """
 
-# Cria o conteúdo da barra lateral no Streamlit
+
 with st.sidebar:
-    # Define o título da barra lateral
+    
     st.title("🤖 AGENTE.IA Coder")
     
-    # Mostra um texto explicativo sobre o assistente
+   
     st.markdown("Um assistente de IA focado em programação Python para ajudar iniciantes.")
     
-    # Campo para inserir a chave de API da Groq
+   
     groq_api_key = st.text_input(
         "Insira sua API Key Groq", 
         type="password",
