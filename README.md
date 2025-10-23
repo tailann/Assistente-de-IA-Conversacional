@@ -5,8 +5,10 @@
 <p align="center">
   <img src="img.PNG" alt="Pré-visualização do aplicativo Streamlit" width="700"/>
 </p>
-===================================| VISÃO GERAL DO PROJETO |======================================
-
+<div align="center">
+  <h3> /\ VISÃO GERAL DO PROJETO /\
+</h3>
+</div>
 
   <h2>Assistente Pessoal de Programação Python</h2> 
     <P>  
@@ -18,7 +20,9 @@
       </p>  
   <h2>Tecnológia Utilizada</h2>
       <p>
-       Frontend: Interface Streamlit, API: LLMGroq
+      <br>Framework Web (Frontend): Streamlit
+      <br>Linguagem Principal:	Python
+      <br>Motor de IA (Backend): Groq API
       </p>
  <h2> Conhecimento DSA Aplicado a este projeto</h2> 
      <p>
