@@ -1,4 +1,12 @@
-<h1 >AGENTE.IA Coder</h1>
+
+<div align="center">
+  <h1>AGENTE.IA Coder</h1>
+</div>
+<p align="center">
+  <img src="img.PNG" alt="Pré-visualização do aplicativo Streamlit" width="700"/>
+</p>
+===================================| VISÃO GERAL DO PROJETO |======================================
+
 
   <h2>Assistente Pessoal de Programação Python</h2> 
     <P>  
