@@ -3,7 +3,7 @@
   <h1>AGENTE.IA Coder</h1>
 </div>
 <p align="center">
-  <img src="img.PNG" alt="Pré-visualização do aplicativo Streamlit" width="700"/>
+  <img src="imagem.PNG" alt="Pré-visualização do aplicativo Streamlit" width="700"/>
 </p>
 <div align="center">
   <h3> /\ VISÃO GERAL DO PROJETO /\
